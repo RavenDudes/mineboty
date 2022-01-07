@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "ult8.falix.gg19262",
+ "port": "19262",
+ "name": "69420bot",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "loginmsg": "coolbot",
  "prefix": "!",
  "version": "1.17.1"
 }
